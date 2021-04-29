@@ -35,7 +35,7 @@ Double click on the ZIP file to expand it. You’ll get an application named Dot
 
 If you try to double click the application to run it, you’ll get a warning dialog. This is due to the application not being registered with Apple. 
 
-It is still safe to use, and we’ve included the source code, which is one line, if you want to inspect it. (It just runs the built-in dot_clean command that Apple provides with the operating system.
+It is still safe to use, and we’ve included the source code, which is one line, if you want to inspect it. (It just runs the built-in dot_clean command that Apple provides with the operating system.)
 
 ---
 
