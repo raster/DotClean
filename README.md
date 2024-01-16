@@ -37,6 +37,8 @@ If you try to double click the application to run it, you’ll get a warning dia
 
 It is still safe to use, and we’ve included the source code, which is one line, if you want to inspect it. (It just runs the built-in dot_clean command that Apple provides with the operating system.)
 
+Update: With each new version of the OS Apple makes it more frightening to run an application by adding more warnings. Just select the appropriate options to continue and you'll be able to run the application.
+
 ---
 
 ![](Images/dotclean-005.png)
